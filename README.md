@@ -1,4 +1,4 @@
-# Chinese Learning Platform Backend
+# PDF parser
 
 A Quart-based backend service for the Chinese learning platform, featuring PDF processing with OCR capabilities using Mistral AI. The codebase also includes a basic DeepSeek processor structure for future text processing tasks.
 
