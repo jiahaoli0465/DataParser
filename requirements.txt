@@ -1,6 +1,6 @@
 quart
 quart-cors
 python-dotenv
-supabase
 mistralai
 werkzeug
+openai
